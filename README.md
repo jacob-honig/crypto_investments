@@ -1,7 +1,7 @@
 # crypto_investments
 
 # Purpose
-This challenge requires that I act as a financial advisor proposing a novel approach to assembling investment portfolios that are based on cryptocurrencies. 
+This challenge requires that I act as a financial advisor proposing a novel approach to assembling investment portfolios that are based on cryptocurrencies. My novel approach is using machine learning to cluster a list of 40 cryptocurrencies. 
 
 This report is an assignment for the tenth week of the FinTech bootcamp curriculum by Trilogy Education Services.
 
