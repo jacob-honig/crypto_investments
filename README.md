@@ -14,9 +14,6 @@ pandas, hvplot, path, sklearn
 # Data
 This report reads data in CSV format. The data used in this analysis contains price change data of cryptocurrencies over 24H, 7D, 14D, 30D, 60D, 200D, and 1Y periods.  
 
-# Usability
-
-
 # Contributors
 Jacob Honig jacobdhonig@gmail.com www.linkedin.com/jacob-honig/
 
